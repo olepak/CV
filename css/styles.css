@@ -4,8 +4,8 @@ body {
 hr {
 	border-style: dotted none none;
 	border-width: 7px;
-	border-color: green;
-	width: 7%;
+	border-color: rgb(151, 209, 151);
+	width: 8%;
 }
 h1,
 h2,

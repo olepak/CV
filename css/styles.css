@@ -4,12 +4,18 @@ body {
 hr {
 	border-style: dotted none none;
 	border-width: 7px;
-	border-color: rgb(151, 209, 151);
+	border-color: rgb(28, 37, 28);
 	width: 8%;
 }
 h1,
 h2,
 h3,
 h4 {
-	color: #66bfbf;
+	color: #111d1d;
+}
+.container {
+	width: 800px;
+	margin: auto;
+	border: solid 1px;
+	padding: 10px;
 }
